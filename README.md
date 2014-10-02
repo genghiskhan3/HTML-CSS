@@ -2,4 +2,4 @@ HTML
 ====
 
 
-Store HTML code to learn from it latter and remember it
+Store HTML/CSS code to learn from it latter and remember it
